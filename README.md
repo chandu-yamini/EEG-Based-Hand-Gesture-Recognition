@@ -2,6 +2,20 @@
 
 ### MSc Artificial Intelligence and Robotics | Machine Learning & Deep Learning
 
+## Research Highlights
+
+- **Best reported test accuracy:** 85% using XGBoost.
+- **Models evaluated:** XGBoost, Random Forest, SVM, KNN, CNN and hybrid CNN–ML approaches.
+- **Classification task:** Three EEG-based hand movement states.
+- **Key finding:** XGBoost and Random Forest outperformed the evaluated CNN and hybrid approaches.
+- **Application area:** EEG-based hand gesture recognition for assistive communication and intelligent patient monitoring.
+
+## Project Navigation
+
+- [EEG Dataset Documentation](data/README.md)
+- [Experimental Results](results/README.md)
+- [Jupyter Notebooks](notebooks/) — Original implementation to be added.
+
 ## Project Overview
 
 This research investigates the classification of hand movement states using Electroencephalography (EEG) signals and machine learning techniques. The project explores the potential of brain-signal-based gesture recognition to support intelligent patient monitoring and assistive communication systems.
